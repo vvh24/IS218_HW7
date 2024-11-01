@@ -21,20 +21,6 @@ contains a URL. The QR code can be viewed with the camera on your phone to allow
 
 ![Docker Log](docker_log.png)
 
-## Lesson Video
-
-1.  [Scaling and Backend Software Engineering](https://youtu.be/v3LxCmYQVS4)
-3.  [Docker and Cloud Computing Intro](https://youtu.be/FpeGzRkBycw)
-
-
-## Readings / Tutorials - No, really you should read these
-* [Containerization vs. Virtualization](https://www.liquidweb.com/kb/virtualization-vs-containerization/)
-* [Official docker Getting Started - Go over all the sections](https://docs.docker.com/guides/get-started/)
-* [Entrypoint vs. CMD vs. RUN ](https://codewithyury.com/docker-run-vs-cmd-vs-entrypoint/)
-* [Make QR with Python](https://towardsdatascience.com/generate-qrcode-with-python-in-5-lines-42eda283f325)
-* [Make Dockerfile](https://thenewstack.io/docker-basics-how-to-use-dockerfiles/)
-* [Args and Environment Variables in Docker](https://vsupalov.com/docker-arg-env-variable-guide/)
-
 ### Building the Image
 
 ```sh
