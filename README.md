@@ -2,8 +2,7 @@
 # Docker and Python
 
 For this assignment I combined Docker with Python to create a program that generates a QR code PNG file that
-contains a URL. The QR code can be viewed with the camera on your phone to allow a user to click on it and send them to
-the target website. 
+contains a URL. The QR code can be viewed with the camera on your phone to allow a user to click on it and send them, in this case, to my Github homepage.https://github.com/vvh24
 
 ![QRCode](QRCode_20241101155752.png)
 
