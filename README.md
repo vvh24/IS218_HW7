@@ -5,7 +5,7 @@ For this assignment I combined Docker with Python to create a program that gener
 contains a URL. The QR code can be viewed with the camera on your phone to allow a user to click on it and send them to
 the target website. 
 
-![QRCode](replaceimagehere)
+![QRCode](QRCode_20241101155752.png)
 
 
 ## Setup
@@ -16,11 +16,11 @@ the target website.
 
 1. Add the QR code image that links to your own GitHub homepage that you generate to the readme.md file, so that it appears below.
 
-PUT YOUR QR CODE IMAGE!!!!!
+![QRCode](QRCode_20241101155752.png)
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
 
-PUT YOUR LOG IMAGE HERE!!!!
+![Docker Log](docker_log.png)
 
 ## Lesson Video
 
